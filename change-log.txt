@@ -1,0 +1,62 @@
+PRO: version 2.5
+--------------------------
+* ADD: InInbox API connection
+* FIX: Coding structure	
+* FIX: Exit PopUp
+* FIX: Clicks
+* ENHANCEMENT: Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+PRO: version 2.0
+--------------------------
+* FIX: 1. Support for specal character like ( ',"", etc.. ) while saving records issue.
+       2. Auto generated error issue due to php version upgrade.	
+       3. Error on "more" option link for your "Where to show option form" feature.	
+* FEATURE: Mobile compatable designes for popup, footerbar, sidebar and within bottom of post.
+* CHANGE: Popup, footerbar templates and other several .php files.
+* ENHANCEMENT: Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+PRO: version 1.7
+--------------------------
+* FIX: Sidebar tracking code issue.
+* FEATURE: Added new theme for Within Bottom Of Post.
+* CHANGE: Within Bottom Of Post CSS codes.
+* ENHANCEMENT: Within Bottom Of Post template; remove white spaces.
+               Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+PRO: version 1.6
+--------------------------
+* FIX: Sidebar issue.
+* FEATURE: Option to Reset sidebar configuration if occur technical issue.
+* CHANGE: Null
+* ENHANCEMENT: Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+PRO: Version 1.4
+------------------------
+* FIX: Issue related to admin interface.
+* FEATURE: 1. Option to change your footer bar background to transparent. 
+           2. Option to replace Popup Lightbox (Default) with Simple Popup.
+* CHANGE: Footer bar custom design background color. 
+* ENHANCEMENT: Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+
+PRO: Version 1.1
+------------------------
+* FIX: WordPress new version 3.3 compatible issue.
+* FEATURE: Null
+* CHANGE: Null 
+* ENHANCEMENT: Admin Panel enhancement; More easy to use and more flexible interface. 
+
+
+
+PRO: 1.0  * First Release.
+----------------------
+* FIX: Null
+* FEATURE: Null
+* CHANGE: Null
+
+
